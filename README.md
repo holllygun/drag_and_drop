@@ -1,0 +1,2 @@
+[https://github.com/holllygun/task_manager/deployments/github-pages](https://holllygun.github.io/drag_and_drop/)
+[![Build status](https://ci.appveyor.com/api/projects/status/isfm5598p5ggbfv7?svg=true)](https://ci.appveyor.com/project/holllygun/drag-and-drop)
